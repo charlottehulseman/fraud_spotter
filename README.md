@@ -1,6 +1,6 @@
 # Fraud Spotter
 
-**Fraud Spotter** is a tool designed to identify fraudulent credit card transactions using machine learning. This project utilizes the Isolation Forest algorithm for anomaly detection and provides an interactive web application to visualize and evaluate the results.
+**Fraud Spotter** is a tool designed to identify fraudulent credit card transactions using machine learning. This project uses the Isolation Forest algorithm for anomaly detection and provides an interactive web application to visualize and evaluate the results.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -33,7 +33,7 @@ The dataset used in this project is the Credit Card Fraud Detection dataset from
 ## Setup Instructions
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/fraud_spotter.git
+    git clone https://github.com/charlottehulseman/fraud_spotter.git
     cd fraud_spotter
     ```
 
