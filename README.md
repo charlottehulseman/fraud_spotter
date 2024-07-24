@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Project Description](#project-description)
 - [Tools and Strategies](#tools-and-strategies)
+- [Demo](#demo)
 - [Dataset Description](#dataset-description)
 - [Setup Instructions](#setup-instructions)
 - [Running the App](#running-the-app)
@@ -21,6 +22,14 @@ This project utilizes the following tools and strategies:
 - **Scikit-Learn** for implementing the Isolation Forest algorithm for anomaly detection.
 - **Streamlit** for creating an interactive web application.
 - **Altair** for visualizing the results.
+
+## Demo
+
+![Adding the Dataset](./assets/demo1.gif.gif)
+
+![The Results](./assets/demo2.gif.gif)
+
+![The Results Visualized](./assets/demo3.gif.gif)
 
 ## Dataset Description
 The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle.
