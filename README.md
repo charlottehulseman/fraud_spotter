@@ -25,10 +25,13 @@ This project utilizes the following tools and strategies:
 
 ## Demo
 
+Adding the Dataset
 ![Adding the Dataset](./assets/demo1.gif)
 
+The Prediction Results and Accuracy
 ![The Results](./assets/demo2.gif)
 
+The Visualized Results
 ![The Results Visualized](./assets/demo3.gif)
 
 ## Dataset Description
