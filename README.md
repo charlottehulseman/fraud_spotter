@@ -25,11 +25,11 @@ This project utilizes the following tools and strategies:
 
 ## Demo
 
-![Adding the Dataset](./assets/demo1.gif.gif)
+![Adding the Dataset](./assets/demo1.gif)
 
-![The Results](./assets/demo2.gif.gif)
+![The Results](./assets/demo2.gif)
 
-![The Results Visualized](./assets/demo3.gif.gif)
+![The Results Visualized](./assets/demo3.gif)
 
 ## Dataset Description
 The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle.
